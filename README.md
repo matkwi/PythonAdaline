@@ -1,2 +1,2 @@
 # PythonAdaline
-App which shows Adaline algorithm
+App which shows Adaline algorithm with GUI.
